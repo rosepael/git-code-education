@@ -1,8 +1,9 @@
 
 Olá Mundo!
-
 Fulano
 
 Qualquer coisa
 
 Aprendendo 3 estágios do git
+
+Estágio 1, 2, 3
