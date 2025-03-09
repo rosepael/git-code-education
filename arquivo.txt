@@ -1,5 +1,5 @@
 
-Olá Mundo!
+Olá Mundo!!!!!!
 Fulano
 
 Qualquer coisa
@@ -9,3 +9,5 @@ Aprendendo 3 estágios do git
 Estágio 1, 2, 3
 
 Alterando arquivo no branch master
+
+Novo teste
